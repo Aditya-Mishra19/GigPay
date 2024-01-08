@@ -65,9 +65,3 @@ This additional layer of security ensures that only authorized users can complet
 - Include as much detail as possible to help us investigate and address the issue promptly.
 - Be respectful and provide accurate information.
 
-### What Happens Next?
-
-Once you've submitted the report, our team will review the information and take appropriate action. We appreciate your vigilance in helping to maintain the integrity of Fraudulent Reporter
-Thank you for your cooperation!
-
----
