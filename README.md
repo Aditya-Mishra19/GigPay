@@ -18,9 +18,9 @@ We've developed a middleware service aimed at preventing fraud in UPI transfers.
 
 To explore the code for both the frontend and backend, check the following links:
 
-- 🌐 **Frontend Code:** [GitHub - Frontend](https://github.com/your-username/frontend-repo)
+- 🌐 **Frontend Code:** [GitHub - Frontend](https://github.com/Aditya-Mishra19/GigPay/tree/main/gigskyfrontend-main)
 
-- 🚀 **Backend Code:** [GitHub - Backend](https://github.com/your-username/backend-repo)
+- 🚀 **Backend Code:** [GitHub - Backend](https://github.com/Aditya-Mishra19/GigPay/tree/main/gigskybackend-main)
 
 ## Research Paper
 
